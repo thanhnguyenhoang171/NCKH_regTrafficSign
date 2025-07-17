@@ -28,3 +28,17 @@ This process is particularly crucial during the model's training phase.</p>
 <p>A future direction for this research is to optimize the YOLOv8 model by tuning hyperparameters, expanding training data, and exploring new techniques to enhance accuracy and speed. Beyond traffic sign recognition, applying the model to detect pedestrians, vehicles, and street scenery could improve surveillance and security systems.
 
 Integrating YOLOv8 with methods like CNNs, RNNs, or Reinforcement Learning may further boost performance. Testing the model in real-world systems, such as autonomous vehicles and surveillance cameras, will ensure its stability. These advancements could significantly contribute to traffic safety and the growth of automation in transportation.</p>
+
+<h3>Publication</h3>
+
+<p>
+  [1] D. T. Nguyen, Q. M. Vu, T. H. Nguyen, K. Q. Ho, P. Q. Luu, and T. H. Duong, 
+  “An approach for traffic sign recognition,” 
+  <em>Ho Chi Minh City Open University Journal of Science – Engineering and Technology</em>, 
+  vol. 15, no. 1, pp. 58–67, Jan. 2025. 
+  [Online]. Available: 
+  <a href="https://doi.org/10.46223/HCMCOUJS.tech.en.15.1.3350.2025" target="_blank" rel="noopener">
+    https://doi.org/10.46223/HCMCOUJS.tech.en.15.1.3350.2025
+  </a>
+</p>
+
